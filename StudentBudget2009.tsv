@@ -1,0 +1,33 @@
+Type	Item	Berkeley	Davis	Irvine	Los Angeles	Merced	Riverside	San Diego	Santa Barbara	Santa Cruz	Systemwide
+Commuter	Books&Supplies	1,306	 1,590	 1,645	 1,599	 1,552	 1,750	 1,560	 1,596	 1,392	 1,610
+Commuter	Living	4,278	 4,277	 4,277	 4,278	 4,277	 4,250	 4,277	 4,277	 4,278	 4,272
+Commuter	Personal	1,856	 1,854	 1,854	 1,980	 1,854	 1,800	 1,893	 1,834	 1,854	 1,865
+Commuter	Transportation	1,946	 1,946	 1,946	 1,947	 1,946	 1,900	 1,946	 1,946	 1,947	 1,938
+Commuter	Healthcare allowance	1,396	 1,048	 681	 885	 967	 633	 846	 975	 1,205	 832
+Commuter	Systemwide fees	7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788
+Commuter	Campus-based fees	564	 1,576	 930	 441	 623	 720	 1,028	 1,289	 1,102	 892
+Commuter	Total	19,134	 20,079	 19,121	 18,918	 19,007	 18,841	 19,338	 19,705	 19,566	 19,197
+On-Campus	Books&Supplies	1,306	 1,590	 1,306	 1,645	 1,599	 1,552	 1,750	 1,560	 1,596	 1,392	 1,552
+On-Campus	Living	15,308	 12,361	 10,655	 13,314	 12,211	 10,900	 11,093	 10,094	 13,641	 12,270
+On-Campus	Personal	1,336	 1,347	 1,705	 1,674	 1,347	 1,750	 1,526	 1,789	 1,512	 1,582
+On-Campus	Transportation	614	 718	 1,445	 909	 1,352	 1,300	 1,089	 1,568	 867	 1,055
+On-Campus	Healthcare	1,396	 1,048	 681	 885	 967	 633	 846	 975	 1,205	 955
+On-Campus	Systemwide fees	7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788
+On-Campus	Campus-based fees	 564	 1,576	 930	 441	 623	 720	 1,028	 1,289	 1,102	 962
+On-Campus	Total	28,312	 26,428	 24,849	 26,610	 25,840	 24,841	 24,930	 25,099	 27,507	 26,101
+Off-Campus	Books&Supplies	1,306	 1,590	 1,645	 1,599	 1,552	 1,750	 1,560	 1,596	 1,392	 1,539
+Off-Campus	Living	10,036	8,164	 9,625	 10,242	 8,164	 9,400	 9,971	 11,901	 10,176	 9,854
+Off-Campus	Personal	1,474	1,481	 1,957	 1,968	 1,481	 2,000	 1,655	 1,655	 1,626	 1,686
+Off-Campus	Transportation	1,030	 1,456	2 223	1,578	2,125	2,100	2,082	1,216	1,602	1,590
+Off-Campus	Healthcare	1,396	 1,048	 681	 885	 967	 633	 846	 975	 1,205	 998
+Off-Campus	Systemwide fees	7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788
+Off-Campus	Campus-based fees	564	 1,576	 930	 441	 623	 720	 1,028	 1,289	 1,102	 962
+Off-Campus	Total	23,594	 23,103	 24,849	 24,501	 22,700	 24,391	 24,930	 26,420	 24,891	 24,417
+All Students	Books&Supplies	1,306	 1,590	 1,645	 1,599	 1,552	 1,750	 1,560	 1,596	 1,392	 1,550
+All Students	Living	11,016	 8,697	 8,571	 10,944	 9,592	 8,842	 9,838	 11,129	 11,572	 10,053
+All Students	Personal	1,459	 1,482	 1,868	 1,851	 1,449	 1,871	 1,630	 1,702	 1,581	 1,671
+All Students	Transportation	974	 1,348	 1,960	 1,342	 1,793	 1,779	 1,698	 1,345	 1,275	 1,456
+All Students	Healthcare allowance	1,396	 1,048	 681	 885	 967	 633	 846	 975	 1,205	 967
+All Students	Systemwide fees	7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788	 7,788
+All Students	Campus-based fees	564	 1,576	 930	 441	 623	 720	 1,028	 1,289	 1,102	 935
+All Students	Total	24,502	 23,529	 23,444	 24,850	 23,764	 23,383	 24,388	 25,824	 25,915	 24,421
